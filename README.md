@@ -9,7 +9,7 @@ Welcome to the Selenium Automation Suite repository! This repository serves as a
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Contributions](#contributions)
-- [Acknowledments](#acknowledgements)
+- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -42,7 +42,7 @@ Before getting started, ensure you have the following prerequisites:
 
 If you'd like to contribute or provide feedback, feel free to open an issue or submit a pull request.
 
-## Acknowledgments
+## Acknowledgements
 
 - Java
 - Selenium
